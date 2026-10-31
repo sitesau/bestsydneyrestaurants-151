@@ -1,0 +1,22 @@
+{
+  "wheel_id": 566,
+  "structure": "umbrella",
+  "slug": "bestsydneyrestaurants-151",
+  "project": "restaurants-sydney-what-to-expect-d39624606571cb788365ebc6dba9e",
+  "parent_t1_ref": "bestsydneyrestaurants-010",
+  "node_role": "buffer",
+  "money_target": "bestsydneyrestaurants.com.au",
+  "primary_kw": "restaurants sydney what to expect",
+  "intended_url": "https://aumedia.neocities.org/restaurants-sydney-what-to-expect-d39624606571cb788365ebc6dba9e/",
+  "tier": "T2",
+  "writeback_nonce": "f43ab325d152f20a",
+  "links": [
+    {
+      "target_url": "https://restaurants-sydney-bestsydneyrestaurants-010-ee075c.gitlab.io/",
+      "anchor": "more on restaurants sydney",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
